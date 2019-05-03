@@ -1,0 +1,16 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id ce8e5101-1594-4123-bfb2-675ee0331ae7 not found.","level":"error"}
+{"message":"Bookmark with id ce8e5101-1594-4123-bfb2-675ee0331ae7 not found.","level":"error"}
+{"message":"Bookmark with id 29d449be-4b79-4342-8a4f-94207ce1bdf8 deleted.","level":"info"}
+{"message":"Bookmark with id 29d449be-4b79-4342-8a4f-94207ce1bdf8 not found.","level":"error"}
+{"message":"Bookmark with id 29d449be-4b79-4342-8a4f-94207ce1bdf8 not found.","level":"error"}
+{"message":"Bookmark with id 11da8a98-0d28-479a-b437-55f99b758d07 deleted.","level":"info"}
+{"message":"Bookmark with id 11da8a98-0d28-479a-b437-55f99b758d07 not found.","level":"error"}
+{"message":"Bookmark with id bcb95827-bad0-42aa-9568-45596705ce5a deleted.","level":"info"}
